@@ -58,14 +58,15 @@ Notes:
 ## ads.txt (required for GameMonetize)
 - Why it’s required: `ads.txt` helps protect your ad revenue by allowing ad exchanges to verify authorized sellers for your domain. GameMonetize and ad networks use it to confirm your site is eligible to monetize their inventory.
 - Where it must live: The file must be in the project root so it is served at `https://<your-domain>/ads.txt`.
-- Render behavior: Render Static Sites automatically serve any root-level files, so no extra config is needed.
-- This project already includes `ads.txt` with entries for GameMonetize:
-  ```
-  #GameMonetize.com
-  google.com, pub-5519830896693885, DIRECT, f08c47fec0942fa0
-  google.com, pub-4764333688337558, DIRECT, f08c47fec0942fa0
-  ```
-- If your partner provides additional lines, append them to `ads.txt` (keep it at the root).
+- Vite public directory: Any file placed in `public/` is copied to the site root on build. A copy of `ads.txt` is included at `public/ads.txt` to guarantee it’s published at `/ads.txt`.
+- Render behavior: Render Static Sites automatically serve root-level files (including those emitted from `public/`). No extra config is needed.
+- This project already includes:
+  - Root: `ads.txt`
+  - Public: `public/ads.txt` (build output to root)
+- If you still see Not Found after deploy:
+  1) Redeploy the site in Render (Manual Deploy).
+  2) Ensure the file exists in either project root or `public/`.
+  3) Hard refresh or check via `curl https://<your-domain>/ads.txt`.
 
 ## Build for Production
 ```bash
@@ -108,7 +109,7 @@ Two options:
 - `src/data/games.json`: Game catalog (edit `embedUrl`).
 - `src/styles.css`: Minimal mobile-first styles.
 - `render.yaml`: Optional Render blueprint for one-click deploy.
-- `ads.txt`: Root-level file for ad seller authorization; must remain at project root.
+- `ads.txt`: Root-level file for ad seller authorization; must remain at project root. A copy also exists in `public/` for build output.
 
 ## License
 This template is provided as-is, without warranty. Ensure you have rights to any games you embed.
