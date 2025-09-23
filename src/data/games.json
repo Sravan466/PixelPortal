@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "title": "Space Runner",
+    "description": "Dodge obstacles and collect coins in space.",
+    "thumbnailUrl": "https://placehold.co/320x180?text=Space+Runner",
+    "embedUrl": "REPLACE_WITH_GAMEMONETIZE_EMBED_URL"
+  },
+  {
+    "id": 2,
+    "title": "Puzzle Blocks",
+    "description": "Drag and drop blocks to clear lines.",
+    "thumbnailUrl": "https://placehold.co/320x180?text=Puzzle+Blocks",
+    "embedUrl": "REPLACE_WITH_GAMEMONETIZE_EMBED_URL"
+  },
+  {
+    "id": 3,
+    "title": "Racing Dash",
+    "description": "Fast-paced racing action with checkpoints.",
+    "thumbnailUrl": "https://placehold.co/320x180?text=Racing+Dash",
+    "embedUrl": "REPLACE_WITH_GAMEMONETIZE_EMBED_URL"
+  }
+]
+
+

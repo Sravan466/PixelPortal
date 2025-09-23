@@ -1,0 +1,8 @@
+services:
+  - type: static_site
+    name: pixel-portal
+    buildCommand: npm install && npm run build
+    publishPath: dist
+    envVars: []
+
+
