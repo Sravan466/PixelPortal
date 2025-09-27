@@ -1,24 +1,412 @@
 [
+ 
   {
-    "id": 1,
-    "title": "Space Runner",
-    "description": "Dodge obstacles and collect coins in space.",
-    "thumbnailUrl": "https://placehold.co/320x180?text=Space+Runner",
-    "embedUrl": "REPLACE_WITH_GAMEMONETIZE_EMBED_URL"
-  },
+    "id": 70979,
+    "title": "Obby: Dig to the center of the Earth",
+    "description": "Grab your drill and start digging straight down! Unlock the way to the depths of the earth by breaking blocks and going deeper and deeper. Overcome the layers of earth and get to the bottom! Each layer gets stronger and requires powerful upgrades to pass through. Hatch pets to earn more and dig faster! Pets give you loot bonuses and speed up your progress. Upgrade your drill, unlock powerful tools and become a better digger! Collect currency, improve your equipment and get stronger and stronger. Compete with other players and climb the leaderboard! Show who is the fastest and hardest digger!",
+    "thumbnailUrl": "https://img.gamemonetize.com/tqe2zu6lsyq77pth6j9qifmtw1k68dun/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/tqe2zu6lsyq77pth6j9qifmtw1k68dun/",
+    "category": "Adventure"
+  }
+  ,
   {
-    "id": 2,
-    "title": "Puzzle Blocks",
-    "description": "Drag and drop blocks to clear lines.",
-    "thumbnailUrl": "https://placehold.co/320x180?text=Puzzle+Blocks",
-    "embedUrl": "REPLACE_WITH_GAMEMONETIZE_EMBED_URL"
-  },
+    "id": 70997,
+    "title": "Minecraft Rooftop Snipers",
+    "description": "Minecraft Rooftop Snipers drops blocky duelists onto sketchy skyscraper ledges for fast, physics-goofy shootouts. Tap to jump, time your shots, and ride recoil to pop helmets without yeeting yourself off the edge. Web Dev https://www.crazygamesonline.com/. Solo versus a cheeky AI or couch two-player chaos, rounds are quick, clutch, and meme-worthy. Simple two-button controls, crunchy hits, windy knockbacks, and random props keep every set fresh. Miss the platform? Respawn, adapt, and steal match point.",
+    "thumbnailUrl": "https://img.gamemonetize.com/zt1aj4qazh57u87jr41yaycsfjwna8j5/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/zt1aj4qazh57u87jr41yaycsfjwna8j5/",
+    "category": "Action"
+  }
+  ,
   {
-    "id": 3,
-    "title": "Racing Dash",
-    "description": "Fast-paced racing action with checkpoints.",
-    "thumbnailUrl": "https://placehold.co/320x180?text=Racing+Dash",
-    "embedUrl": "REPLACE_WITH_GAMEMONETIZE_EMBED_URL"
+    "id": 70943,
+    "title": "Noob vs Pro But Archers Minecraft",
+    "description": "A two-player game where the fastest and most calculating wins! Noob and Pro decided to have a bow duel! Shoot your opponent before they shoot you! A fun two-player game in the style of Minecraft. Theres also a single-player mode. About the Game The game features: Two-player mode Single-player mode 26 levels Surfaces that arrows can ricochet off Falling sand blocks Sharp arrows And much more! The main goal of the game is to try to calculate the arrows flight to hit your opponent before they do! Use your calculation skills!",
+    "thumbnailUrl": "https://img.gamemonetize.com/6asufor8sv5q6k091rtzrzvxm54qne3r/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/6asufor8sv5q6k091rtzrzvxm54qne3r/",
+    "category": "Action"
+  }
+  ,
+  {
+    "id": 70912,
+    "title": "Hamster Maze",
+    "description": "Embark on a fun and fast-paced adventure with a brave little hamster! In this runner game, you will guide the hamster to jump over challenging obstacles, collect tasty food along the way, and reach the goal to clear each level. Timing and quick reflexes are the key — every move counts as the speed increases. With simple controls, colorful graphics, and addictive gameplay, this hamster run delivers endless excitement for players of all ages. Can you help the hamster overcome every obstacle and become the ultimate food-loving champion?",
+    "thumbnailUrl": "https://img.gamemonetize.com/jdqq2dsuxfzt02vp6spq62p655a0rnpb/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/jdqq2dsuxfzt02vp6spq62p655a0rnpb/",
+    "category": "Arcade"
+  }
+  ,
+  {
+    "id": 70657,
+    "title": "Quick Cards",
+    "description": "Keep throwing the cards on your turn, the larger card wins! The winner keeps both the cards. In case of tie, the game is on! The more you play, the more you like the game.",
+    "thumbnailUrl": "https://img.gamemonetize.com/8a69iuz39a0yy5eu1467ncyxh68vofs7/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/8a69iuz39a0yy5eu1467ncyxh68vofs7/",
+    "category": "Strategy"
+  }
+  ,
+  {
+    "id": 70870,
+    "title": "Arrows disappear",
+    "description": "Tap on the blocks to make them fly off the screen. Remove all the blocks to complete the level. Try to handle large amounts of blocks when you have a limit on the number of moves and every mistake will bring you closer to failure.",
+    "thumbnailUrl": "https://img.gamemonetize.com/lkhr9e5ja90yu8wgfwfe7u5btrmv0k3g/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/lkhr9e5ja90yu8wgfwfe7u5btrmv0k3g/",
+    "category": "Puzzle"
+  }
+  ,
+  {
+    "id": 70873,
+    "title": "LOL Presidential Face",
+    "description": "LOL Presidential Face is a funny and lighthearted face-editing game where you can mix, stretch, and swap presidential features in hilarious ways. Pick from different presidents, drag and distort their faces, add goofy accessories, and create the funniest combinations you can imagine. Whether you’re making them look silly, serious, or just plain ridiculous, the goal is simple: laugh out loud at your presidential masterpiece and share it with friends.",
+    "thumbnailUrl": "https://img.gamemonetize.com/25ew10jwvjm3o1jks9xtqt5lltgd6ph4/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/25ew10jwvjm3o1jks9xtqt5lltgd6ph4/"
+  }
+  ,
+  {
+    "id": 70536,
+    "title": "Bus Route",
+    "description": "The BUS ROUTE is a colourful and fun puzzlesorting game created by gameNply.com In this game: You have a queue of passengers waiting for their bus, each passenger having different colours, Your task is to sort them by colour, match them up in the right way, and organize the flow so that VIP passengers or special ones can board on time, The game features smooth animations, lively backgrounds, and vibrant, bus-themed visuals. As you progress, it gets more challenging: more colours, more passengers, more pressure to sort quickly and efficiently, It’s simple to get into but clever in design— Thanks for Play",
+    "thumbnailUrl": "https://img.gamemonetize.com/ylb0bv504njgyezlc86d14c0gax7330v/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/ylb0bv504njgyezlc86d14c0gax7330v/"
+  }
+  ,
+  {
+    "id": 70777,
+    "title": "Tracky Tracks",
+    "description": "Tracky Tracks (Tricky Tracks) — fast-paced drifting game of precision and speed! Race through mountains, cities, and lakes, customize your car, and master challenging tracks with smooth, responsive controls.",
+    "thumbnailUrl": "https://img.gamemonetize.com/j6kqv5c19zklpk0vku3kz8jjfxvpyp21/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/j6kqv5c19zklpk0vku3kz8jjfxvpyp21/",
+    "category": "Arcade"
+  }
+  ,
+  {
+    "id": 70690,
+    "title": "Obby: Training by Car",
+    "description": "Get ready to drive as far as possible, buy new cars, unlock new trails, and collect energy! Buy awesome cars, and collect energy and pets that give you powerful bonuses! Explore different locations. Game Features: • Control your car. • Farm energy to make your car faster. • Unlock unique trails with special effects. • Revive system – unlock new locations and grow stronger. • Leaderboards & competitions – race against other players and become the champion! Can you become the best racer?",
+    "thumbnailUrl": "https://img.gamemonetize.com/on6r436vavy94l6g7lf5y8iyn0v24s1y/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/on6r436vavy94l6g7lf5y8iyn0v24s1y/"
+  }
+  ,
+  {
+    "id": 70769,
+    "title": "Bus Simulator Unblocked Remastered",
+    "description": "Bus Simulator Unblocked Remastered lets you drive legit routes in your browser—no installs, no drama. Climb into a first-person cockpit, start the engine, signal, open doors, and keep to the schedule while traffic AI and tight corners test your patience. Web Dev https://www.crazygamesx.com/. Smooth WebGL visuals, decent physics, and multiple camera views make runs feel real. Perfect for school Chromebooks or quick breaks. WASD to drive, Q/E for indicators, space to brake—don’t miss those stops.",
+    "thumbnailUrl": "https://img.gamemonetize.com/42eq7wikn26zuxun0hx0m6fd7bhz8a42/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/42eq7wikn26zuxun0hx0m6fd7bhz8a42/"
+  }
+  ,
+  {
+    "id": 70957,
+    "title": "Pass the ball 3d",
+    "description": "The ball must be kicked so that it bounces off various objects and flies exactly into the green container. Watch the behavior of the defenders, they can easily hit the ball.",
+    "thumbnailUrl": "https://img.gamemonetize.com/7mfd1zm7wm1z1uv4te3rwog0r2is8ncv/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/7mfd1zm7wm1z1uv4te3rwog0r2is8ncv/"
+  }
+  ,
+  {
+    "id": 70807,
+    "title": "Brainrot Click to Hatch",
+    "description": "Enter Brainrot Click to Hatch, the absurd and epic clicker where every tap hatches chaotic BRAINROTS. Unlock characters like Bombardero Cocodrilo, Tralalero Tralala, Lirali Liralira, and Chimpancini Bananini, then push them to their MAX POWER forms with epic transformations. Earn coins, unlock upgrades, and speed your progress. Discover special day/night backgrounds and watch your collection grow stranger and more powerful. From viral classics to impossible evolutions, the challenge is clear: collect them all before losing your mind!",
+    "thumbnailUrl": "https://img.gamemonetize.com/84pbd1sr3mqpg1q0gwumcd8ebv42jtcv/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/84pbd1sr3mqpg1q0gwumcd8ebv42jtcv/"
+  }
+  ,
+  {
+    "id": 70983,
+    "title": "Musical Labubu: Make a Melody",
+    "description": "Musical Labubu - Make a Melody is a game about creating your own melody in a small 3D world. Here youll see a variety of Labubu, with a variety of animations and sounds. The game features a night mode that can really surprise and scare you. If youre not afraid, youll love it. Come on in and create your favorite melody!",
+    "thumbnailUrl": "https://img.gamemonetize.com/8adxlj3n9i12qxlrs9dl91b3otpjbkhs/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/8adxlj3n9i12qxlrs9dl91b3otpjbkhs/"
+  }
+  ,
+  {
+    "id": 70926,
+    "title": "Noob vs Pro But Knife Hit Minecraft",
+    "description": "A two-player game where the luckiest and most calculating wins! Noob and Pro decided to play a so-called darts game, but with knives. A fun two-player game in the style of Minecraft and Knife Hit. The game features: -Two-player mode -Single-player mode -20+ level variations -20+ single-player level variations -10 bosses -Sharp knives -Logs (just logs) -Workbenches (both spinning and non-spinning, but thats a matter of taste) -Fragile sand blocks -Evil bosses -Strange levels -And much more! The main goal of the game is to throw knives at logs until they run out.",
+    "thumbnailUrl": "https://img.gamemonetize.com/hx8re2tfco2ej8l6xkuxbvlofv4l1fl2/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/hx8re2tfco2ej8l6xkuxbvlofv4l1fl2/"
+  }
+  ,
+  {
+    "id": 70867,
+    "title": "Super Girls My Rainy Day Outfits",
+    "description": "Welcome to Super Girls My Rainy Day Outfits. Who said that you can’t look perfect on a rainy day? A bit of rain shouldn’t stop us from looking fabulous! And don’t even worry about the hair, some curls under a hat look absolutely perfect! How would your perfect rainy day outfit look like? Try creating it while helping these princesses dress up in warmer clothes and rain boots. Accessorize their look with a hat, scarf, and a cute umbrella.",
+    "thumbnailUrl": "https://img.gamemonetize.com/togvdiy9kjgkpux6azmnva19l8zb1y5y/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/togvdiy9kjgkpux6azmnva19l8zb1y5y/"
+  }
+  ,
+  {
+    "id": 70546,
+    "title": "Road Fighter – Endless Car Racing",
+    "description": "Hit the road in Road Fighter, a fast-paced 3-lane racing game! Dodge traffic, avoid oil spills, and race against time while climbing the leaderboard. Collect points to level up and increase your speed. Can you survive the traffic and become the ultimate road champion? Features: 3 lanes with smooth left/right movement Obstacles: cars and oil spills Increasing speed and levels for extra challenge Real-time scoring and leaderboard support Mobile-friendly with touch controls Sound effects and background music for immersive gameplay",
+    "thumbnailUrl": "https://img.gamemonetize.com/noym5buhm52w1oqhkng1kno2ift8gtym/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/noym5buhm52w1oqhkng1kno2ift8gtym/"
+  }
+  ,
+  {
+    "id": 69893,
+    "title": "Om Nom Run 03",
+    "description": "Om Nom Run is an exciting endless runner where you guide Om Nom through fun and colorful levels, jumping over obstacles and collecting tasty candies. The goal is simple: run as far as you can, score points, and beat your high score! With easy one-button controls, anyone can pick up and play, making it perfect for kids and adults alike. The further you run, the faster the game becomes, testing your reflexes and timing. Avoid dangerous obstacles, grab candies for bonus points, and try to survive as long as possible. Whether you’re looking for a quick game to pass the time or a real challenge to push your limits, Om Nom Run delivers fast-paced",
+    "thumbnailUrl": "https://img.gamemonetize.com/z8gamat20izb3pw25e3e1ruonuafdd5y/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/z8gamat20izb3pw25e3e1ruonuafdd5y/"
+  }
+  ,
+  {
+    "id": 70839,
+    "title": "Noob vs Pro But Floor is Lava Minecraft",
+    "description": "Noob and Pro decided to relax, but suddenly rising lava ruined their plans! Now they’re trying to survive in this lava-filled world! A fun two-player game in a Minecraft style. The game features: -Two-player mode -Single-player mode -12 main levels plus 2 special levels -Hot lava -Jump and speed potions found in chests -Falling sand blocks -Levels with lava lakes -And much more! The main goal is to avoid falling into the lava, which rises higher and higher each round. Occasionally, the lava will lower to give you a brief break. 1 Player mode also available!",
+    "thumbnailUrl": "https://img.gamemonetize.com/7j6xjz5mtmf5j97yyadzc7bnykholqsr/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/7j6xjz5mtmf5j97yyadzc7bnykholqsr/"
+  }
+  ,
+  {
+    "id": 70841,
+    "title": "Black And White 2",
+    "description": "Black and White 2 is a fast-paced arcade game where you control a cube that switches between black and white. Jump over obstacles, adapt to shifting patterns, and survive as long as you can. Each zone you clear restores your 6 lives, but when they run out it’s game over. The Game Over screen shows how far you made it before giving you the chance to retry and jump straight back into the action. With its minimalist design, sharp contrast, and addictive gameplay, Black and White delivers a modern arcade experience that’s easy to pick up but hard to master.",
+    "thumbnailUrl": "https://img.gamemonetize.com/gkxj0wqryg0efku1bkdtgjsa2jaaml9b/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/gkxj0wqryg0efku1bkdtgjsa2jaaml9b/"
+  }
+  ,
+  {
+    "id": 70504,
+    "title": "Journey Of Escape",
+    "description": "Escape games have always been a popular genre among puzzle enthusiasts and adventure seekers. They challenge players to think critically, solve intricate puzzles, and uncover hidden secrets while racing against time. Journey of Escape is an immersive collection of escape games designed to test your intelligence",
+    "thumbnailUrl": "https://img.gamemonetize.com/l1rhybtx256rpe52ssv2hjxjx2lb38hk/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/l1rhybtx256rpe52ssv2hjxjx2lb38hk/",
+    "category": "Adventure"
+  }
+  ,
+  {
+    "id": 70505,
+    "title": "Ocean Blast Match 3",
+    "description": "Ocean King Match Puzzle is design based on ocean creatures to gives you the taste of ocean. For Match 3 puzzle game lovers to experience the ocean life in Game play. Match 3 items to start the fun and explore the ocean. Blast through multiple items Become the King of Ocean by matching and solving ocean puzzle. Show your matching and solving skills to unlock the depths of the ocean. Thousands of Brain storming puzzle to boost your brain cells. Ocean King Match Puzzle Gives you the chance to explore the hidden treasures of the ocean. Rule the ocean and show your skills to the world. Make your path to the end of bottom.",
+    "thumbnailUrl": "https://img.gamemonetize.com/nmftnzx6e4frgw01p965k2aadoiajyto/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/nmftnzx6e4frgw01p965k2aadoiajyto/",
+    "category": "Puzzle"
+  }
+  ,
+  {
+    "id": 70659,
+    "title": "Shuffle Sage",
+    "description": "Shuffle Sage – A Solitaire Challenge of Wisdom and Strategy Step into the world of Shuffle Sage, a solitaire-inspired card game where patience meets mastery. Your goal is simple yet challenging: arrange the sequence of cards in perfect order, carefully alternating between red and black suits as you build your stacks. Every move counts — place the wrong card and you’ll block your progress, but with the right foresight and planning, you can untangle the toughest layouts. Test your wisdom, sharpen your strategy, and prove yourself worthy of the title Shuffle Sage. Are you ready to conquer the deck and achieve the perfect sequence?",
+    "thumbnailUrl": "https://img.gamemonetize.com/vwgqt3a0451fmt38zjpxlmr21q9vpxuh/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/vwgqt3a0451fmt38zjpxlmr21q9vpxuh/"
+  }
+  ,
+  {
+    "id": 70809,
+    "title": "Deep Fuel",
+    "description": "In Deep Fuel, you dive underground with your drill machine and race against fuel consumption. Collect gold, oil, and gems to boost your score, while avoiding walls and running out of fuel. Compete with AI bots, unlock upgrades, and climb the leaderboard. Simple controls, addictive gameplay, endless digging fun!",
+    "thumbnailUrl": "https://img.gamemonetize.com/kz6p3x5tdz7fc43lf424reyq68yd9ixp/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/kz6p3x5tdz7fc43lf424reyq68yd9ixp/"
+  }
+  ,
+  {
+    "id": 70815,
+    "title": "Red Ball Html5",
+    "description": "The Red Ball HTML5 game captures players with its straightforward approach. Youll quickly see why its easy rules lead to so much replay value. This classic arcade fun is always ready to go, no matter where you are. It proves that great games dont need fancy graphics to be super entertaining. Its basic design hides a deep sense of fun. You get hooked trying to solve each levels unique puzzles. This game shows how simple ideas can deliver endless hours of fun. Why do people keep coming back for more? Its charm is tough to beat.",
+    "thumbnailUrl": "https://img.gamemonetize.com/npkz17stxru2fpolezaguktgnxkw2fk8/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/npkz17stxru2fpolezaguktgnxkw2fk8/"
+  }
+  ,
+  {
+    "id": 70783,
+    "title": "Fruits Mania",
+    "description": "Fruit Mania is a colorful match & tap puzzle game for all ages. Your mission is to help the cute little lemming collect the right fruits! On the board, you’ll see plenty of smiling fruit blocks (red strawberries, blue blueberries, yellow lemons, green watermelons, and more). The player must tap groups of same-colored fruits to clear them and earn points. The larger the group of fruits you tap, the higher your score and combo bonus! At the bottom right, the game shows the fruit needed (for example, a red strawberry) that you must collect to complete the level’s goal.",
+    "thumbnailUrl": "https://img.gamemonetize.com/714lpb7fb1587g0hknogzq32jzaithkd/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/714lpb7fb1587g0hknogzq32jzaithkd/"
+  }
+  ,
+  {
+    "id": 70667,
+    "title": "running in foam",
+    "description": "In the game, we need to control the girl and use various bathing tools to bathe the girl. When the girl successfully washes up and reaches the end, the game will be won. Come and experience it with me.",
+    "thumbnailUrl": "https://img.gamemonetize.com/p32lr73p0596mo5r2flvqye8rw8ho34o/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/p32lr73p0596mo5r2flvqye8rw8ho34o/"
+  }
+  ,
+  {
+    "id": 67499,
+    "title": "Brick Breaker Gala",
+    "description": "Shatter bricks and shine in Brick Breaker Gala, a thrilling arcade game! Strategically launch balls, unleash powerful power-ups, and demolish colorful brick walls across countless levels. Earn stars with high scores to advance in the dazzling Summer Gala, claiming fantastic rewards! Collect coins to enhance your gameplay through a robust upgrade system, boosting your balls, power-ups, and lives. Conquer challenges with skill and precision in this visually stunning and endlessly addictive brick-breaking adventure!",
+    "thumbnailUrl": "https://img.gamemonetize.com/075c3wfmrlnx6tquvca3mv81et2ue5fu/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/075c3wfmrlnx6tquvca3mv81et2ue5fu/"
+  }
+  ,
+  {
+    "id": 68155,
+    "title": "Paper Doll Makeover Dress Up",
+    "description": "Welcome to Paper Doll Makeover & Dress Up, a doll world where the fashion of DIY paper doll and the fun of a doll dress up game come together. Step into this enchanting dress up game and become the stylist of your very own paper princess. With over 1000 fashion items at your fingertips, including trendy clothing, unique accessories, various hairstyles, and ASMR-inspired makeup, you can let your DIY creativity soar through your cute doll.",
+    "thumbnailUrl": "https://img.gamemonetize.com/efbm9g8i0f8euf9hbf7q1sz749s37jfc/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/efbm9g8i0f8euf9hbf7q1sz749s37jfc/"
+  }
+  ,
+  {
+    "id": 70776,
+    "title": "Snaily Braver (Europe Adventure) ",
+    "description": "Join Snaily Braver on a Grand European Adventure! Get ready to embark on a charming journey with the worlds most intrepid snail! Meet Snaily, a small adventurer with a big heart and an even bigger dream: to capture the perfect selfie in Europes most famous cities. He’s packed his shell and is ready for an unforgettable trip, but he cant do it without you! Guide our courageous hero through the stunning landscapes of Paris, Amsterdam, and London in this delightful platforming adventure. Leap across rooftops, dodge the grumpy Fog Police, and outsmart mischievous crows as you explore beautifully crafted levels inspired by real-world locations",
+    "thumbnailUrl": "https://img.gamemonetize.com/5vy9blk0bhy14ih2th0sfcco6pf5z3ea/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/5vy9blk0bhy14ih2th0sfcco6pf5z3ea/"
+  }
+  ,
+  {
+    "id": 70658,
+    "title": "Chromatch",
+    "description": "Chromatch – Test Your Reflexes, Match Your Colors! Get ready for Chromatch, the fast-paced color-matching challenge that keeps you on your toes! A spinning wheel divided into four vibrant color sections awaits your precision. Your task is simple: throw the arrow of a given color and hit the matching section. But be careful—land on the wrong color, and you’ll lose one of your three lives. As the wheel speeds up, your reflexes, timing, and focus will be put to the ultimate test. Easy to pick up but hard to master, Chromatch delivers endless fun in short bursts, making it perfect for casual play or high-score chasers.",
+    "thumbnailUrl": "https://img.gamemonetize.com/ll1v3omcwn8r7zyd9joxny6ym3mrj8rr/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/ll1v3omcwn8r7zyd9joxny6ym3mrj8rr/"
+  }
+  ,
+  {
+    "id": 70774,
+    "title": "Unicorn Coloring Challenge",
+    "description": "Unicorn Coloring Challenge is a magical and delightful coloring game that will spark creativity in kids and adults alike! Dive into a world of rainbow-colored unicorns, sparkling stars, and enchanted landscapes. Grab your digital crayons, paints, and brushes to bring each adorable unicorn to life. With endless colors to choose from, you can create dazzling designs, mix and match patterns, and let your imagination run wild. Perfect for little artists who love magical creatures, glittery adventures, and fun challenges. Let the unicorn magic begin and see who can make the most fabulous masterpiece!",
+    "thumbnailUrl": "https://img.gamemonetize.com/os0nnbahf0d3dnlf5kmsk8pl19cg3x11/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/os0nnbahf0d3dnlf5kmsk8pl19cg3x11/"
+  }
+  ,
+  {
+    "id": 70773,
+    "title": "Rapid Match",
+    "description": "Tap, match, and clear the row! In this fast-paced puzzle game where timing and precision matter, you shoot blocks from the bottom to hit the matching ones above. Match them right and boom — the whole row is gone! But watch out — your block changes on its own!",
+    "thumbnailUrl": "https://img.gamemonetize.com/eq9kggnt86xu08stss3m9lt0bnupwn0w/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/eq9kggnt86xu08stss3m9lt0bnupwn0w/"
+  }
+  ,
+  {
+    "id": 70945,
+    "title": "Obby: Working as a Firefighter",
+    "description": "Become a firefighter hero! In this exciting adventure you will have to save the city from the fire element. Keep people and buildings safe, because every second counts! Put out fires with water pistols Aim accurately, run through the burning streets and defeat the fire before it destroys everything around you. Difficult levels and challenges With each stage, the fire spreads faster and time is getting shorter. Show the reaction and precision of a real rescuer! Compete and save Set records, share your results with friends and prove that you are the best firefighter in town!",
+    "thumbnailUrl": "https://img.gamemonetize.com/r75ajpg21deomfxjm7sj3nqvlnhxhui8/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/r75ajpg21deomfxjm7sj3nqvlnhxhui8/"
+  }
+  ,
+  {
+    "id": 70835,
+    "title": "Speeding ball",
+    "description": "There is only one stroke per hole, and you need to roll the ball with one stroke. Its not the easiest task in front of you, you need a good calculation so that the ball falls into the hole on the first attempt.",
+    "thumbnailUrl": "https://img.gamemonetize.com/paag9a0xkq1j6sjber4mtmsisfh4vb0x/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/paag9a0xkq1j6sjber4mtmsisfh4vb0x/"
+  }
+  ,
+  {
+    "id": 70992,
+    "title": "Bus Parking Unblocked",
+    "description": "Bus Parking is a clean, skill-based driving challenge where you thread a long city bus through tight turns, cones, and zero-margin bays. Feel the weight, plan your swing, and nail precision stops without scraping paint. Smooth throttle, crisp camera, and progressive levels keep the loop addictive. Beat timers, earn three stars, and flex pro driver vibes. Mess up? Rewind, learn the line, and park it like a boss. Every time.",
+    "thumbnailUrl": "https://img.gamemonetize.com/ycrq598s8r7r88p8j5b3ijzk2o63wtxw/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/ycrq598s8r7r88p8j5b3ijzk2o63wtxw/"
+  }
+  ,
+  {
+    "id": 70654,
+    "title": "Acorn Flight",
+    "description": "Take to the skies in Acorn Flight, a fast-paced flying adventure where you guide a daring squirrel through the open air. Your mission? Dodge flocks of birds while collecting shining golden rings to boost your score. Simple to play but tricky to master, every tap keeps your squirrel soaring—one wrong move and it’s game over! The farther you fly and the more rings you collect, the higher your score climbs.",
+    "thumbnailUrl": "https://img.gamemonetize.com/8gkq1jw5de9ezsyoozy0sx3fzudmfjq3/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/8gkq1jw5de9ezsyoozy0sx3fzudmfjq3/"
+  }
+  ,
+  {
+    "id": 70866,
+    "title": "Little Lily Halloween Prep",
+    "description": "Welcome to Little Lily Halloween Prep. It’s time to celebrate Halloween with Little Lily! Enjoy a memorable Halloween night with Lily and play fun-packed Halloween games and activities. Help the lily to complete her makeover, then help her with Halloween face painting. Browse her wardrobe and pick cute outfits and costumes. Finally, help her with cake decoration. A lot more to enjoy and explore this Halloween season with Little Lily. Happy Halloween!!",
+    "thumbnailUrl": "https://img.gamemonetize.com/bkmwpswxx62cp7qsoro7xe7fpnkzbd64/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/bkmwpswxx62cp7qsoro7xe7fpnkzbd64/"
+  }
+  ,
+  {
+    "id": 70982,
+    "title": "screw bolt 3d",
+    "description": "Screw & Bolt 3D Tighten, twist, and unlock the world of mechanics! Screw & Bolt is a fun and brain-teasing 3D puzzle game, where every level challenges your logic and precision. Rotate screws, unscrew bolts, and solve mechanical puzzles to progress through increasingly tricky structures. With realistic 3D physics, smooth controls, and engaging visuals, each challenge feels satisfying to solve.",
+    "thumbnailUrl": "https://img.gamemonetize.com/7e5x1pipuzzog3aefxd2ev1ya8zw63jn/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/7e5x1pipuzzog3aefxd2ev1ya8zw63jn/"
+  }
+  ,
+  {
+    "id": 71029,
+    "title": "Escape from the prison in Mineblock! Destruction!",
+    "description": "Escape from the epic prison in Mineblock in a variety of ways right now! The game features a variety of items that can help you escape, as well as many prisons, each with its own unique abilities or durability. Try to escape from all the prisons right now! Earn money by destroying the prison blocks and unlock new blocks, as well as upgrade the damage of your items!",
+    "thumbnailUrl": "https://img.gamemonetize.com/mbvqo8k9xm7lyezy1j8qsf7cu4z9qwps/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/mbvqo8k9xm7lyezy1j8qsf7cu4z9qwps/"
+  }
+  ,
+  {
+    "id": 71036,
+    "title": "Soccer Volley",
+    "description": "Enjoy a fast-paced HTML5 arcade challenge! Test your reflexes, collect rewards, and avoid obstacles as you try to beat your high score. Simple to play but hard to master, this game is perfect for quick fun sessions on both mobile and desktop. Can you set a new record?",
+    "thumbnailUrl": "https://img.gamemonetize.com/qm0monm28raplsrs517u47quhag1zqpk/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/qm0monm28raplsrs517u47quhag1zqpk/"
+  }
+  ,
+  {
+    "id": 69187,
+    "title": "Whats In My Bag?",
+    "description": "Unpack style and surprises in What’s In My Bag? – the ultimate dress-up and makeup game for fashion lovers! Choose cute outfits, glam makeup, and trendy bags, then reveal what’s inside each one.",
+    "thumbnailUrl": "https://img.gamemonetize.com/8dxx4qmb65d51vv2bm5zenycya9mrmxb/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/8dxx4qmb65d51vv2bm5zenycya9mrmxb/"
+  }
+  ,
+  {
+    "id": 70840,
+    "title": "Super Basketball Bluey",
+    "description": "Super Basketball is a simple yet incredibly addictive game built on realistic physics! Tap and slide the ball to adjust angle and power, then shoot it into the hoop. Endless arcade challenge with moving hoops and limited shots per level.",
+    "thumbnailUrl": "https://img.gamemonetize.com/k42cjr2na7lc5sgm3hq42yewek26tzib/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/k42cjr2na7lc5sgm3hq42yewek26tzib/"
+  }
+  ,
+  {
+    "id": 70846,
+    "title": "Noob vs Pro But Anvil Rain Minecraft",
+    "description": "Noob and Pro decided to sit down and relax, but a sudden anvil rain ruined their plans! Now they’re trying to survive in this world. Dodge falling anvils as they increase in frequency—the longer you survive, the more fall every second!",
+    "thumbnailUrl": "https://img.gamemonetize.com/2fm5dy4usyoe0ze5t6tjxrd6kiluifh8/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/2fm5dy4usyoe0ze5t6tjxrd6kiluifh8/"
+  }
+  ,
+  {
+    "id": 70861,
+    "title": "People tower",
+    "description": "We need to get to the finish line, but there are many obstacles ahead that will have to be bypassed. Collect people along the way to form a high pyramid, so you will definitely go all the way.",
+    "thumbnailUrl": "https://img.gamemonetize.com/o9qyw5t3ziqgjwg7m7akjicg1no56b5q/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/o9qyw5t3ziqgjwg7m7akjicg1no56b5q/"
+  }
+  ,
+  {
+    "id": 70649,
+    "title": "Slither Mini Kingdom",
+    "description": "Control a glowing snake in a competitive arena, eating dots to grow longer while outmaneuvering other players. Avoid colliding with rivals to survive, and trap them to turn them into food. Become the longest snake and dominate the leaderboard.",
+    "thumbnailUrl": "https://img.gamemonetize.com/21k6yq7qmr0c2807attftweykcvk8e3m/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/21k6yq7qmr0c2807attftweykcvk8e3m/"
+  }
+  ,
+  {
+    "id": 70704,
+    "title": "Obby: Climb and Slide",
+    "description": "Ready to conquer the tallest slides? Climb higher and higher up the ladders, then rush down the thrilling slides! Collect coins, earn bonuses from pets, and reach new heights in this colorful, fast-paced game.",
+    "thumbnailUrl": "https://img.gamemonetize.com/lr5u64zee68h9nghuu29z8dxce7iecfo/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/lr5u64zee68h9nghuu29z8dxce7iecfo/"
+  }
+  ,
+  {
+    "id": 70833,
+    "title": "Happy Gunman",
+    "description": "Your salvation is in your hands — to survive, take accurate shots at your pursuers. All forces are thrown in pursuit of you, even using dinosaurs to chase you.",
+    "thumbnailUrl": "https://img.gamemonetize.com/ugosyon4e6hxxou6ykzar5ogexl2cly3/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/ugosyon4e6hxxou6ykzar5ogexl2cly3/"
+  }
+  ,
+  {
+    "id": 70338,
+    "title": "Bear Block Puzzle",
+    "description": "Fun Bear Block Puzzle is a classic and engaging block puzzle game that challenges your logic and sharpens your mind. Drag and drop blocks onto the grid, fill rows or columns completely to clear them and score points.",
+    "thumbnailUrl": "https://img.gamemonetize.com/apn0y579tb1ytuvaxmbf6dm80xa7mfy8/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/apn0y579tb1ytuvaxmbf6dm80xa7mfy8/"
+  }
+  ,
+  {
+    "id": 63537,
+    "title": "Candy Quest",
+    "description": "Candy Quest: A Sweet Puzzle Adventure! Collect required blocks each level within a limited number of moves. Vibrant visuals, engaging gameplay, and strategic challenges keep players entertained for hours.",
+    "thumbnailUrl": "https://img.gamemonetize.com/w4gggcqnowrr17s49loiqhnili9mu2zd/512x384.jpg",
+    "embedUrl": "https://html5.gamemonetize.com/w4gggcqnowrr17s49loiqhnili9mu2zd/"
   }
 ]
 
