@@ -328,6 +328,7 @@ body {
   max-width: 1400px;
   margin: 0 auto;
   padding: 2rem;
+  touch-action: pan-y;
 }
 
 .game-row {
@@ -387,6 +388,7 @@ body {
   padding: 1rem 0;
   scrollbar-width: none;
   -ms-overflow-style: none;
+  touch-action: pan-x;
 }
 
 .game-cards-container::-webkit-scrollbar {
@@ -699,20 +701,24 @@ body {
     display: none;
   }
   
+  .game-rows-section {
+    touch-action: pan-y;
+  }
+  
   .game-cards-container {
     touch-action: pan-x;
   }
   
   .game-card {
-    touch-action: manipulation;
+    touch-action: auto;
   }
   
   .game-thumbnail {
-    touch-action: manipulation;
+    touch-action: auto;
   }
   
   .game-thumbnail img {
-    touch-action: manipulation;
+    touch-action: auto;
   }
   
   .row-header {
