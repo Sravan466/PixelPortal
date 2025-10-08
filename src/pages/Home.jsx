@@ -43,20 +43,11 @@ export default function Home() {
           <div className="floating-shape"></div>
         </div>
         <div className="hero-content">
-          <p className="hero-subtitle">Premium Gaming Experience</p>
-          <h1 className="hero-title">Unleash the Fun with Thousands of Mini Games</h1>
-          <p className="hero-description">
-            Discover an endless collection of premium games, from action-packed adventures to mind-bending puzzles. 
-            Play instantly, compete with friends, and unlock achievements.
-          </p>
-          <div className="hero-actions">
-            <button className="primary-btn" onClick={() => document.querySelector('.games-section').scrollIntoView({ behavior: 'smooth' })}>
-              Start Playing
-            </button>
-            <button className="secondary-btn" onClick={() => document.querySelector('.categories').scrollIntoView({ behavior: 'smooth' })}>
-              Browse Categories
-            </button>
-          </div>
+          <h1 className="hero-title">
+            <span className="desktop-title">Unleash the Fun with Thousands of Mini Games</span>
+            <span className="mobile-title">Mini games, mega fun</span>
+          </h1>
+
 
         </div>
       </section>
