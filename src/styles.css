@@ -425,6 +425,7 @@ body {
   position: relative;
   min-width: 250px;
   flex-shrink: 0;
+  touch-action: manipulation;
 }
 
 .game-card:hover {
@@ -700,6 +701,18 @@ body {
   
   .game-cards-container {
     touch-action: pan-x;
+  }
+  
+  .game-card {
+    touch-action: manipulation;
+  }
+  
+  .game-thumbnail {
+    touch-action: manipulation;
+  }
+  
+  .game-thumbnail img {
+    touch-action: manipulation;
   }
   
   .row-header {
