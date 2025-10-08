@@ -5,7 +5,6 @@ import games from '../data/games.json';
 export default function Home() {
   const [query, setQuery] = useState('');
   const [selectedCategory, setSelectedCategory] = useState('');
-
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
     let result = games;
@@ -39,6 +38,9 @@ export default function Home() {
           <div className="floating-shape"></div>
           <div className="floating-shape"></div>
           <div className="floating-shape"></div>
+          <div className="floating-shape"></div>
+          <div className="floating-shape"></div>
+          <div className="floating-shape"></div>
         </div>
         <div className="hero-content">
           <p className="hero-subtitle">Premium Gaming Experience</p>
@@ -55,69 +57,75 @@ export default function Home() {
               Browse Categories
             </button>
           </div>
-          <div className="hero-stats">
-            <div className="stat-item">
-              <span className="stat-number">1000+</span>
-              <span className="stat-label">Games</span>
-            </div>
-            <div className="stat-item">
-              <span className="stat-number">50K+</span>
-              <span className="stat-label">Players</span>
-            </div>
-            <div className="stat-item">
-              <span className="stat-number">24/7</span>
-              <span className="stat-label">Available</span>
-            </div>
-          </div>
+
         </div>
       </section>
 
-      {/* Category Filters */}
-      <section className="categories">
-        <button 
-          className={`category-btn ${!selectedCategory ? 'active' : ''}`}
-          onClick={() => setSelectedCategory('')}
-        >
-          All Games
-        </button>
-        {categories.map((cat) => (
-          <button 
-            key={cat.name}
-            className={`category-btn ${selectedCategory === cat.name ? 'active' : ''}`}
-            onClick={() => setSelectedCategory(selectedCategory === cat.name ? '' : cat.name)}
-          >
-            <span>{cat.icon}</span>
-            {cat.name}
-          </button>
-        ))}
-      </section>
-
-      {/* Games Section */}
-      <section className="games-section">
-        <div className="games-grid">
-          {filtered.map((game, index) => (
-            <Link
-              to={`/game/${game.id}`}
-              key={game.id}
-              className="game-card"
-              aria-label={`Play ${game.title}`}
-            >
-              <div className="game-thumbnail">
-                {game.thumbnailUrl ? (
-                  <img src={game.thumbnailUrl} alt={game.title} style={{width: '100%', height: '100%', objectFit: 'cover'}} />
-                ) : (
-                  <span>🎮</span>
+      {/* Game Rows Section */}
+      <section className="game-rows-section">
+        {[
+          { title: 'Racing Games', games: games.filter(g => g.category === 'Racing' || g.title.toLowerCase().includes('racing') || g.title.toLowerCase().includes('car') || g.title.toLowerCase().includes('bus') || g.title.toLowerCase().includes('road') || g.title.toLowerCase().includes('track')) },
+          { title: 'Action Games', games: games.filter(g => g.category === 'Action') },
+          { title: 'Puzzle Games', games: games.filter(g => g.category === 'Puzzle') },
+          { title: 'Mobile Games', games: games.filter(g => g.category === 'Mobile') },
+          { title: 'Arcade Games', games: games.filter(g => g.category === 'Arcade') },
+          { title: 'Adventure Games', games: games.filter(g => g.category === 'Adventure') },
+          { title: 'Strategy Games', games: games.filter(g => g.category === 'Strategy') },
+          { title: 'Sports Games', games: games.filter(g => g.category === 'Sports') }
+        ].map((row) => {
+          const allGames = row.games.length > 0 ? row.games : games;
+          const displayGames = allGames.slice(0, 6);
+          
+          return (
+            <div key={row.title} className="game-row">
+              <div className="row-header">
+                <h2 className="row-title">{row.title}</h2>
+                {allGames.length > 6 && (
+                  <Link 
+                    to={`/category/${row.title.toLowerCase().replace(' games', '')}`}
+                    className="view-all-btn"
+                  >
+                    View All ({allGames.length})
+                  </Link>
                 )}
               </div>
-              <div className="game-info">
-                <h3 className="game-title">{game.title}</h3>
+              <div className="game-carousel">
+                <button className="scroll-btn scroll-left" onClick={(e) => {
+                  const carousel = e.target.parentElement.querySelector('.game-cards-container');
+                  carousel.scrollBy({ left: -300, behavior: 'smooth' });
+                }}>‹</button>
+                <div className="game-cards-container">
+                  {displayGames.map((game, index) => (
+                    <Link
+                      to={`/game/${game.id}`}
+                      key={game.id}
+                      className="game-card"
+                      aria-label={`Play ${game.title}`}
+                    >
+                      <div className="game-thumbnail">
+                        {game.thumbnailUrl ? (
+                          <img src={game.thumbnailUrl} alt={game.title} style={{width: '100%', height: '100%', objectFit: 'cover'}} />
+                        ) : (
+                          <span>🎮</span>
+                        )}
+                      </div>
+                      <div className="game-info">
+                        <h3 className="game-title">{game.title}</h3>
+                      </div>
+                      <div className="game-badge">
+                        {badges[index % badges.length]}
+                      </div>
+                    </Link>
+                  ))}
+                </div>
+                <button className="scroll-btn scroll-right" onClick={(e) => {
+                  const carousel = e.target.parentElement.querySelector('.game-cards-container');
+                  carousel.scrollBy({ left: 300, behavior: 'smooth' });
+                }}>›</button>
               </div>
-              <div className="game-badge">
-                {badges[index % badges.length]}
-              </div>
-            </Link>
-          ))}
-        </div>
+            </div>
+          );
+        })}
       </section>
     </>
   );

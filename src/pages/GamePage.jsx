@@ -14,6 +14,10 @@ export default function GamePage() {
   const suggestions = useMemo(() => games.filter((g) => Number(g.id) !== gameId).slice(0, 12), [gameId]);
 
   useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
+  useEffect(() => {
     if (!game) return;
     if (!game.embedUrl || game.embedUrl === 'REPLACE_WITH_GAMEMONETIZE_EMBED_URL') {
       console.warn('No embed URL configured for this game');
